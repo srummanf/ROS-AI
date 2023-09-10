@@ -41,7 +41,7 @@ const Product = () => {
     // Function to handle word input change
     const handleWordInputChange = (e) => {
         const inputWord = e.target.value.toLowerCase(); // Convert to lowercase
-        setWord(inputWord);
+        setWord(    );
     };
 
     return (
