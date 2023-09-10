@@ -7,6 +7,7 @@ import Timeline from '@/components/Timeline'
 import About from '@/components/About'
 import Product from '@/components/Product'
 import Team from '@/components/Team';
+import Footer from '@/components/Footer';
 
 const page = () => {
   return (
@@ -17,6 +18,7 @@ const page = () => {
       <About />
       <Product/>
       <Team/>
+      <Footer/>
     </>
   )
 }
