@@ -1,4 +1,5 @@
 "use client";
+
 import React, { useState } from 'react';
 import Image from 'next/image';
 
@@ -41,7 +42,7 @@ const Product = () => {
     // Function to handle word input change
     const handleWordInputChange = (e) => {
         const inputWord = e.target.value.toLowerCase(); // Convert to lowercase
-        setWord(    );
+        setWord(inputWord);
     };
 
     return (
@@ -81,7 +82,7 @@ const Product = () => {
                     </div>
                 </section>
 
-                
+
             </section>
         </>
     );
