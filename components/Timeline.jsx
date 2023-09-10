@@ -31,7 +31,7 @@ const Timeline = () => {
                                     <div className="flex flex-col sm:relative sm:before:absolute sm:before:top-2 sm:before:w-4 sm:before:h-4 sm:before:rounded-full sm:before:left-[-35px] sm:before:z-[1] before:dark:bg-violet-400">
                                         <h3 className="text-xl font-semibold tracki">Week 3: Created our website and showed across the platforms</h3>
                                         <time className="text-xs tracki uppercase dark:text-gray-400">4th Week of Buildspace</time>
-                                        <p className="mt-3">Created a first version of our toy which exhibited and presented across twitter and LinkedIn.</p>
+                                        <p className="mt-3">Created a first version of our toy using NextJS which exhibited and presented across twitter and LinkedIn.</p>
                                     </div>
                                 </div>
                             </div>
