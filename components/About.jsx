@@ -19,8 +19,8 @@ const About = () => {
                                     <path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clip-rule="evenodd"></path>
                                 </svg>
                             </div>
-                            <h3 class="mb-2 text-xl font-bold dark:text-white">Marketing</h3>
-                            <p class="text-gray-500 dark:text-gray-400">Plan it, create it, launch it. Collaborate seamlessly with all  the organization and hit your marketing goals every month with our marketing plan.</p>
+                            <h3 class="mb-2 text-xl font-bold dark:text-white">Text Input</h3>
+                            <p class="text-gray-500 dark:text-gray-400">Provide a text input field where users can type or paste the text they want to convert to ASL.</p>
                         </div>
                         <div>
                             <div class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-900">
@@ -28,8 +28,8 @@ const About = () => {
                                     <path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clip-rule="evenodd"></path>
                                 </svg>
                             </div>
-                            <h3 class="mb-2 text-xl font-bold dark:text-white">Legal</h3>
-                            <p class="text-gray-500 dark:text-gray-400">Protect your organization, devices and stay compliant with our structured workflows and custom permissions made for you.</p>
+                            <h3 class="mb-2 text-xl font-bold dark:text-white">ASL Animation</h3>
+                            <p class="text-gray-500 dark:text-gray-400">Display ASL signs and gestures corresponding to the entered text. You can use animated graphics or videos of a sign language interpreter demonstrating the signs.</p>
                         </div>
                         <div>
                             <div class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-900">
@@ -37,8 +37,8 @@ const About = () => {
                                     <path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clip-rule="evenodd"></path>
                                 </svg>
                             </div>
-                            <h3 class="mb-2 text-xl font-bold dark:text-white">Business Automation</h3>
-                            <p class="text-gray-500 dark:text-gray-400">Auto-assign tasks, send Slack messages, and much more. Now power up with hundreds of new templates to help you get started.</p>
+                            <h3 class="mb-2 text-xl font-bold dark:text-white">Translation Speed Control</h3>
+                            <p class="text-gray-500 dark:text-gray-400">Allow users to control the speed of the ASL translation animation. This can be done with options like "slow," "normal," and "fast" to accommodate different learning preferences.</p>
                         </div>
                         <div>
                             <div class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-900">
@@ -46,8 +46,8 @@ const About = () => {
                                     <path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clip-rule="evenodd"></path>
                                 </svg>
                             </div>
-                            <h3 class="mb-2 text-xl font-bold dark:text-white">Finance</h3>
-                            <p class="text-gray-500 dark:text-gray-400">Audit-proof software built for critical financial operations like month-end close and quarterly budgeting.</p>
+                            <h3 class="mb-2 text-xl font-bold dark:text-white">Dictionary and Glossary</h3>
+                            <p class="text-gray-500 dark:text-gray-400">It has a built-in ASL dictionary or glossary that users can access to learn the meanings of individual signs and gestures. This can be a valuable reference tool.</p>
                         </div>
                         <div>
                             <div class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-900">
@@ -55,8 +55,8 @@ const About = () => {
                                     <path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clip-rule="evenodd"></path>
                                 </svg>
                             </div>
-                            <h3 class="mb-2 text-xl font-bold dark:text-white">Enterprise Design</h3>
-                            <p class="text-gray-500 dark:text-gray-400">Craft beautiful, delightful experiences for both marketing and product with real cross-company collaboration.</p>
+                            <h3 class="mb-2 text-xl font-bold dark:text-white">Mobile Compatibility</h3>
+                            <p class="text-gray-500 dark:text-gray-400">The website is responsive and works well on mobile devices, as users may want to access ASL translations on the go.</p>
                         </div>
                         <div>
                             <div class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-900">
@@ -64,8 +64,8 @@ const About = () => {
                                     <path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clip-rule="evenodd"></path>
                                 </svg>
                             </div>
-                            <h3 class="mb-2 text-xl font-bold dark:text-white">Operations</h3>
-                            <p class="text-gray-500 dark:text-gray-400">Keep your company’s lights on with customizable, iterative, and structured workflows built for all efficient teams and individual.</p>
+                            <h3 class="mb-2 text-xl font-bold dark:text-white">Social Sharing</h3>
+                            <p class="text-gray-500 dark:text-gray-400">Allow users to share ASL translations or lessons on social media platforms to encourage engagement and learning within their social networks.</p>
                         </div>
                     </div>
                 </div>

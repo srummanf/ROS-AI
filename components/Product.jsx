@@ -50,7 +50,7 @@ const Product = () => {
             <section id="our-product" className="bg-white dark:bg-gray-900">
                 <section className="px-4 md:px-6 lg:px-8">
                     <div className="flex justify-center mt-7">
-                        <h1 className="mb-4 text-2xl font-extrabold tracking-tight leading-none text-gray-900 md:text-3xl lg:text-4xl dark:text-white">
+                        <h1 className="my-4 text-2xl font-extrabold tracking-tight leading-none text-gray-900 md:text-3xl lg:text-4xl dark:text-white">
                             Our Product
                         </h1>
                     </div>
