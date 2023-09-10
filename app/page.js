@@ -6,6 +6,7 @@ import Hero from '@/components/Hero'
 import Timeline from '@/components/Timeline'
 import About from '@/components/About'
 import Product from '@/components/Product'
+import Team from '@/components/Team';
 
 const page = () => {
   return (
@@ -15,6 +16,7 @@ const page = () => {
       <Timeline />
       <About />
       <Product/>
+      <Team/>
     </>
   )
 }
