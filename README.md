@@ -1,3 +1,18 @@
+# Revolution of Speaking : ROS AI
+
+This project is the first protype which was submitted in BuildSpace S4. This project primarily converts any text to ASL Sign Lanaguages.
+
+![1698216588496](image/README/1698216588496.png)
+
+### Tech Stack
+
+* NextJS
+* Tailwind
+* Flowbite
+* Vercel
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
