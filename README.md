@@ -11,7 +11,11 @@ This project is the first protype which was submitted in BuildSpace S4. This pro
 * Flowbite
 * Vercel
 
+### Project Admins
 
+* [Shaikh Rumman Fardeen](https://github.com/srummanf/)
+* [Spandan Mukherjee](https://github.com/SpandanM110)
+* [Ojas Aklecha](https://github.com/ojasaklechayt)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
